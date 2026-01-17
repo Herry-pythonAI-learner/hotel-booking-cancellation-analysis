@@ -65,6 +65,6 @@ Hotel_Cancellation_Project/
 └── requirements.txt                 # Python dependencies
 
 ## 📊 Business Intelligence Dashboard (Power BI)
-![Hotel Reservations Dashboard](reports/Final_Dashboard_Reservations_Project.png)
+![Hotel Reservations Dashboard](https://github.com/Herry-pythonAI-learner/hotel-booking-cancellation-analysis/blob/main/reports/Final_Dashboard_Reservations_Project.png?raw=true)
 
 > **Key Insight:** The dashboard reveals that **60.05% of revenue loss** originates from **Long Term** bookings, providing a clear target for policy changes.
