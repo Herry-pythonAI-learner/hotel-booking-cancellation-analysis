@@ -48,7 +48,7 @@ Guests who make **special requests** (e.g., high floor, extra bed) or require **
 | **Recall** | **63%** | Successfully catches over half of all potential cancellations before they happen. |
 
 ## 📊 Business Intelligence Dashboard (Power BI)
-![Hotel Reservations Dashboard](https://github.com/Herry-pythonAI-learner/hotel-booking-cancellation-analysis/blob/main/reports/Final_Dashboard_Reservations_Project.png?raw=true)
+![Hotel Reservations Dashboard](https://github.com/Herry-DataAnalyst/hotel-booking-cancellation-analysis/blob/main/reports/Final_Dashboard_Reservations_Project.png?raw=true)
 
 > **Key Insight:** The dashboard reveals that **60.05% of revenue loss** originates from **Long Term** bookings, providing a clear target for policy changes.
 
