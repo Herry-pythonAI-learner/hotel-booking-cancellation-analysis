@@ -1,5 +1,5 @@
 # 🏨 Hotel Booking Cancellation Predictor
-**Bridging 10+ Years of Front-Desk Experience with Machine Learning**
+**From Hotel Receptionist to Data Analyst: Solving Cancellation Risks with Machine Learning**
 
 ## 📌 Executive Summary
 This project addresses one of the most significant challenges in the hospitality industry: **Revenue Loss due to Cancellations**. Using a dataset of over 36,000 reservations, I developed a machine learning pipeline that predicts cancellations with **80.37% accuracy**. 
@@ -65,6 +65,6 @@ Hotel_Cancellation_Project/
 └── requirements.txt                 # Python dependencies
 
 ## 📊 Business Intelligence Dashboard (Power BI)
-![Hotel Reservations Dashboard](reports/Final_Dashboard_Reservations_Project.jpg)
+![Hotel Reservations Dashboard](reports/Final_Dashboard_Reservations_Project.png)
 
 > **Key Insight:** The dashboard reveals that **60.05% of revenue loss** originates from **Long Term** bookings, providing a clear target for policy changes.
