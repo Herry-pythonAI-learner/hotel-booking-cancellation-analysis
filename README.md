@@ -47,10 +47,13 @@ Guests who make **special requests** (e.g., high floor, extra bed) or require **
 | **Precision** | **74%** | Minimizes false alarms; prevents annoying loyal guests with unnecessary follow-ups. |
 | **Recall** | **63%** | Successfully catches over half of all potential cancellations before they happen. |
 
+## 📊 Business Intelligence Dashboard (Power BI)
+![Hotel Reservations Dashboard](https://github.com/Herry-pythonAI-learner/hotel-booking-cancellation-analysis/blob/main/reports/Final_Dashboard_Reservations_Project.png?raw=true)
+
+> **Key Insight:** The dashboard reveals that **60.05% of revenue loss** originates from **Long Term** bookings, providing a clear target for policy changes.
 
 
 ---
-
 ## 📂 Project Structure
 ```text
 Hotel_Cancellation_Project/
@@ -61,10 +64,9 @@ Hotel_Cancellation_Project/
 ├── src/
 │   ├── hotelpipe.py                 # Scikit-Learn Pipeline code
 │   └── helper.py                    # Feature engineering functions
+├── reports/
+│   └── Final_Dashboard_Reservations_Project.png # Power BI Screenshot
 ├── README.md                        # Project summary and insights
 └── requirements.txt                 # Python dependencies
 
-## 📊 Business Intelligence Dashboard (Power BI)
-![Hotel Reservations Dashboard](https://github.com/Herry-pythonAI-learner/hotel-booking-cancellation-analysis/blob/main/reports/Final_Dashboard_Reservations_Project.png?raw=true)
 
-> **Key Insight:** The dashboard reveals that **60.05% of revenue loss** originates from **Long Term** bookings, providing a clear target for policy changes.
